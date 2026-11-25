@@ -1,0 +1,17 @@
+{
+  "name": "Julien Croatto",
+  "phone": "07 62 89 49 98",
+  "email": "croattojulien@gmail.com",
+  "headline": "Développement commercial · Immobilier haut de gamme · Construction",
+  "languages": [{"name":"Anglais","level":"Intermédiaire"}],
+  "interests": ["Architecture","Design","Art","Gastronomie","Vins & spiritueux","Voyages"],
+  "target_role": "Responsable Commercial Luxe",
+  "experiences": [
+    {"title":"Consultant immobilier haut de gamme indépendant","company":"Espaces Atypiques · Toulon / Hyères","dates":"Juil. 2025 - Aujourd’hui","bullets":["Prospection et développement d’un secteur autour de biens singuliers à fort potentiel.","Accompagnement de vendeurs et d’acquéreurs sur des projets à dimension patrimoniale.","Estimation, valorisation, organisation des visites et conduite des négociations.","Relation client premium fondée sur l’écoute, la discrétion, la confiance et la réactivité."]},
+    {"title":"Chargé d’affaires cadre · CDI","company":"Ciffreo Bona · Six-Fours","dates":"Janv. 2021 - Juin 2025","bullets":["Développement et suivi d’un portefeuille de clients professionnels du BTP et des travaux publics.","Prospection, négociation des offres et fidélisation de comptes à fort potentiel.","Pilotage des opportunités commerciales, maîtrise du risque client et coordination interne.","Management, recrutement et accompagnement de collaborateurs."]},
+    {"title":"Chargé d’affaires TP · CDI","company":"Ciffreo Bona · Six-Fours","dates":"Mars 2019 - Fév. 2021","bullets":["Développement commercial auprès d’acteurs professionnels du BTP et des travaux publics.","Suivi de portefeuille, négociation et fidélisation dans une logique de partenariat durable.","Contribution à la sélection des fournisseurs et aux négociations commerciales."]},
+    {"title":"Attaché technico-commercial TP · CDI","company":"Ciffreo Bona · Six-Fours","dates":"Nov. 2015 - Fév. 2019","bullets":["Développement des ventes et fidélisation d’un portefeuille de clients professionnels.","Suivi des objectifs commerciaux et accompagnement des clients dans leurs besoins techniques."]},
+    {"title":"Commercial en alternance","company":"RG Matériaux · Fréjus","dates":"Sept. 2013 - Août 2015","bullets":["Accueil, conseil et traitement des demandes commerciales.","Coordination avec les équipes internes et suivi opérationnel des commandes."]}
+  ],
+  "education": [{"degree":"BTS Négociation et Relation Client (NRC)","school":"Formaplus · Roquebrune-sur-Argens","dates":"2013 – 2015"}]
+}
